@@ -19,6 +19,7 @@
     "jquery": "^3.3.1",
     "jquery-smooth-scroll": "^2.2.0",
     "lazysizes": "^4.1.5",
+    "picturefill": "^3.0.3",
     "postcss-hexrgba": "^1.0.1",
     "postcss-import": "^12.0.1",
     "postcss-mixins": "^6.2.0",
